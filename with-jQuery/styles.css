@@ -1,0 +1,87 @@
+
+@font-face {
+    font-family: "Lemon/Milk"; 
+    src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot"); src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff") format("woff"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.svg#Lemon/Milk") format("svg");} 
+ 
+
+#newBtn {
+    height: 50px;
+    width: 200px;
+    font-size: 16px;
+    border-radius: 10px;
+    font-family: "Lemon/Milk";
+    background-image: linear-gradient(#51a2b6, #6ed1b0);
+    color: rgb(250, 250, 249);
+    cursor: pointer;
+}
+
+#btn3 {
+    font-family: "Lemon/Milk";
+    height: 50px;
+    width: 200px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-image: linear-gradient(#dd9aeb, #d3c36a);
+    color: whitesmoke;
+    cursor: pointer;
+}
+#newDiv {
+    display: flex;
+    font-family: 'Permanent Marker', cursive;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    color: lightseagreen;
+    text-align: center;
+}
+
+#btn2 {
+    height: 50px;
+    width: 200px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-image: linear-gradient(#F08080, #9bc5be);
+    color: white;
+    font-family: "Lemon/Milk";
+    cursor: pointer;
+}
+#para {
+    display: flex;
+    font-family: "Lemon/Milk";
+    height: 100px;
+    width: 300px;
+    cursor: pointer;
+    background-color: rgb(241, 241, 214);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#showInput {
+    height: 50px;
+    width: 210px;
+    font-size: 12px;
+    border-radius: 10px;
+    background-image: linear-gradient(#e79696, #576a83);
+    color: white;
+    font-family: "Lemon/Milk";
+    cursor: pointer;
+}
+#addItem {
+    font-family: 'Permanent Marker', cursive;
+    color: lightcoral;
+    cursor: pointer;
+}
+#myName {
+    font-family: 'Permanent Marker', cursive;
+    color: lightseagreen;
+    cursor: pointer;
+}
+#textInput {
+    font-family: 'Permanent Marker', cursive;
+    height: 25px;
+    width: 200px;
+    border-color: rgb(126, 113, 202);
+    cursor: pointer;
+}
